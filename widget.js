@@ -32,10 +32,10 @@ const SLOTS = [
     // ---- ช่องที่ 3 ----
     [
         { name: "Cha Eun-Woo", description: "Favorite actor", image: "https://example.com/images/cha-eun-woo.png" },
-        { name: "Character 2", description: "...", image: "https://example.com/images/character-2.png" },
-        { name: "Character 3", description: "...", image: "https://example.com/images/character-3.png" },
-        { name: "Character 4", description: "...", image: "https://example.com/images/character-4.png" },
-        { name: "Character 5", description: "...", image: "https://example.com/images/character-5.png" },
+        { name: "Character 2", description: "test", image: "https://example.com/images/character-2.png" },
+        { name: "Character 3", description: "test", image: "https://example.com/images/character-3.png" },
+        { name: "Character 4", description: "test", image: "https://example.com/images/character-4.png" },
+        { name: "Character 5", description: "test", image: "https://example.com/images/character-5.png" },
     ],
     // ---- ช่องที่ 4 ----
     [
