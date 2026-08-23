@@ -31,11 +31,11 @@ const SLOTS = [
     ],
     // ---- ช่องที่ 3 ----
     [
-        { name: "Cha Eun-Woo", description: "Favorite actor", image: "https://media.gametora.com/umamusume/characters/profile/1052.png" },
-        { name: "Character 2", description: "test", image: "https://media.gametora.com/umamusume/characters/profile/1052.png" },
-        { name: "Character 3", description: "test", image: "https://media.gametora.com/umamusume/characters/profile/1052.png" },
-        { name: "Character 4", description: "test", image: "https://media.gametora.com/umamusume/characters/profile/1052.png" },
-        { name: "Character 5", description: "test", image: "https://media.gametora.com/umamusume/characters/profile/1052.png" },
+        { name: "Cha Eun-Woo", description: "Favorite actor", image: "https://media1.tenor.com/m/M4MrfthHioYAAAAC/haru-urara-urara.gif" },
+        { name: "Character 2", description: "test", image: "https://media1.tenor.com/m/M4MrfthHioYAAAAC/haru-urara-urara.gif" },
+        { name: "Character 3", description: "test", image: "https://media1.tenor.com/m/M4MrfthHioYAAAAC/haru-urara-urara.gif" },
+        { name: "Character 4", description: "test", image: "https://media1.tenor.com/m/M4MrfthHioYAAAAC/haru-urara-urara.gif" },
+        { name: "Character 5", description: "test", image: "https://media1.tenor.com/m/M4MrfthHioYAAAAC/haru-urara-urara.gif" },
     ],
     // ---- ช่องที่ 4 ----
     [
