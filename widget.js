@@ -31,11 +31,11 @@ const SLOTS = [
     ],
     // ---- ช่องที่ 3 ----
     [
-        { name: "Cha Eun-Woo", description: "Favorite actor", image: "https://media1.tenor.com/m/M4MrfthHioYAAAAC/haru-urara-urara.gif" },
-        { name: "Character 2", description: "test", image: "https://media1.tenor.com/m/M4MrfthHioYAAAAC/haru-urara-urara.gif" },
-        { name: "Character 3", description: "test", image: "https://media1.tenor.com/m/M4MrfthHioYAAAAC/haru-urara-urara.gif" },
-        { name: "Character 4", description: "test", image: "https://media1.tenor.com/m/M4MrfthHioYAAAAC/haru-urara-urara.gif" },
-        { name: "Character 5", description: "test", image: "https://media1.tenor.com/m/M4MrfthHioYAAAAC/haru-urara-urara.gif" },
+        { name: "Cha Eun-Woo", description: "Favorite actor", image: "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tydDg2dTZqc3VtdnNmdzQxMGtoZGMyNmtncnJxOW9icGl3MWpsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4hrnX9fpJ0gu04oSNy/giphy.gif" },
+        { name: "Character 2", description: "test", image: "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tydDg2dTZqc3VtdnNmdzQxMGtoZGMyNmtncnJxOW9icGl3MWpsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4hrnX9fpJ0gu04oSNy/giphy.gif" },
+        { name: "Character 3", description: "test", image: "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tydDg2dTZqc3VtdnNmdzQxMGtoZGMyNmtncnJxOW9icGl3MWpsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4hrnX9fpJ0gu04oSNy/giphy.gif" },
+        { name: "Character 4", description: "test", image: "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tydDg2dTZqc3VtdnNmdzQxMGtoZGMyNmtncnJxOW9icGl3MWpsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4hrnX9fpJ0gu04oSNy/giphy.gif" },
+        { name: "Character 5", description: "test", image: "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2tydDg2dTZqc3VtdnNmdzQxMGtoZGMyNmtncnJxOW9icGl3MWpsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4hrnX9fpJ0gu04oSNy/giphy.gif" },
     ],
     // ---- ช่องที่ 4 ----
     [
