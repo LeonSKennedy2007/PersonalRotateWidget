@@ -26,15 +26,13 @@ const SLOTS = [
             { name: "Venti", description: "...", image: "https://example.com/images/venti.png" },
         ],
     },
-    // ---- ช่องที่ 2 (สุ่ม) ----
+    // ---- ช่องที่ 2 (เรียงตามลำดับ) ----
     {
-        mode: "shuffle",
+        mode: "sequential",
         entries: [
-            { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​A​​🇪​​🇲​​🇪🇦​​🇹​​🇭​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: "Uma Musume ace sprinter", image: "https://example.com/images/oguri-cap.png" },
-            { name: "Special Week", description: "...", image: "https://example.com/images/special-week.png" },
-            { name: "Silence Suzuka", description: "...", image: "https://example.com/images/silence-suzuka.png" },
-            { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​A​​🇪​​🇲​​🇪🇦​​🇹​​🇭​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '"All I want... is for you to live safe and happy."', image: "https://c.tenor.com/P9tiKP5RB0wAAAAd/tenor.gif" },
-            { name: "Mejiro McQueen", description: "...", image: "https://example.com/images/mejiro-mcqueen.png" },
+            { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​​​Eʟʏꜱɪᴀ​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '"Thank you for being in the dream with me GN𖹭."', image: "https://kommodo.ai/i/8zE4f9gdVUlfwh6nRfL7" },
+            { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​​​Cʏʀᴇɴᴇ​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '"This will be a romantic story like no other. right?', image: "https://example.com/images/special-week.png" },
+            { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​A​​🇪​​🇲​​🇪🇦​​🇹​​🇭​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '"All I want... is for you to live safe and happy."', image: "blob:https://tools.kommodo.ai/81ac67bf-fca3-40d2-a48f-552b438f78db" },
         ],
     },
     // ---- ช่องที่ 3 (สุ่ม) ----
