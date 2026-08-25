@@ -31,7 +31,7 @@ const SLOTS = [
         mode: "sequential",
         entries: [
             { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​​​Eʟʏꜱɪᴀ​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '"Thank you for being in the dream with me GN𖹭."', image: "https://kommodo.ai/i/8zE4f9gdVUlfwh6nRfL7" },
-            { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​​​Cʏʀᴇɴᴇ​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '"This will be a romantic story like no other. right?', image: "https://kommodo.ai/i/HCbRb5AB8qPupWqpC4eJ" },
+            { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​​​Cʏʀᴇɴᴇ​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '"This will be a romantic story like no other. right?', image: "blob:https://tools.kommodo.ai/81ac67bf-fca3-40d2-a48f-552b438f78db" },
             { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​A​​🇪​​🇲​​🇪🇦​​🇹​​🇭​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '"All I want... is for you to live safe and happy."', image: "blob:https://tools.kommodo.ai/81ac67bf-fca3-40d2-a48f-552b438f78db" },
         ],
     },
