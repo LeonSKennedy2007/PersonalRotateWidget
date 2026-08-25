@@ -26,14 +26,14 @@ const SLOTS = [
             { name: "Venti", description: "...", image: "https://example.com/images/venti.png" },
         ],
     },
-    // ---- ช่องที่ 2 (เรียงตามลำดับ) ----
+    // ---- ช่องที่ 2 (สุ่ม) ----
     {
-        mode: "sequential",
+        mode: "shuffle",
         entries: [
-            { name: "Oguri Cap", description: "Uma Musume ace sprinter", image: "https://example.com/images/oguri-cap.png" },
+            { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​A​​🇪​​🇲​​🇪🇦​​🇹​​🇭​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: "Uma Musume ace sprinter", image: "https://example.com/images/oguri-cap.png" },
             { name: "Special Week", description: "...", image: "https://example.com/images/special-week.png" },
             { name: "Silence Suzuka", description: "...", image: "https://example.com/images/silence-suzuka.png" },
-            { name: "Tokai Teio", description: "...", image: "https://example.com/images/tokai-teio.png" },
+            { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​A​​🇪​​🇲​​🇪🇦​​🇹​​🇭​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '"All I want... is for you to live safe and happy."', image: "https://c.tenor.com/P9tiKP5RB0wAAAAd/tenor.gif" },
             { name: "Mejiro McQueen", description: "...", image: "https://example.com/images/mejiro-mcqueen.png" },
         ],
     },
