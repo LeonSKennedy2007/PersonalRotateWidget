@@ -32,7 +32,7 @@ const SLOTS = [
         entries: [
             { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​​​Eʟʏꜱɪᴀ​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '"Thank you for being in the dream with me GN𖹭."', image: "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTdxeHd5a2xwNXAwNWJwNWpnNGZ2aGFwaHNmYjA1bXE4M2I4NHRjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SYhq0nt6QTYzORNSRO/giphy.gif" },
             { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​​​Cʏʀᴇɴᴇ​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '"This will be a romantic story like no other. right?', image: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFjdjhrYWhoeTJhcmplZGU0MzYwNWN3cGRjNmw4cHlobXNjY2s3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hFB9LJYeUoKzfmc2LZ/giphy.gif" },
-            { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​A​​🇪​​🇲​​🇪🇦​​🇹​​🇭​​ ۫꣑ৎ˚𑣲 ۫˖", description: '"All I want... is for you to live safe and happy."', image: "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlneHhiN3lwZWdkMWxmcDQzMnAwdnpjbno0ZWhpMWVlcWFlbWV6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mMtkD6L0jkcPekSAwv/giphy.gif" },
+            { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​A​​🇪​​🇲​​🇪🇦​​🇹​​🇭​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '"All I want... is for you to live safe and happy."', image: "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlneHhiN3lwZWdkMWxmcDQzMnAwdnpjbno0ZWhpMWVlcWFlbWV6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mMtkD6L0jkcPekSAwv/giphy.gif" },
         ],
     },
     // ---- ช่องที่ 3 (สุ่ม) ----
