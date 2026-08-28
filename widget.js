@@ -31,7 +31,7 @@ const SLOTS = [
         mode: "sequential",
         entries: [
             { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​​​Eʟʏꜱɪᴀ​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '"Thank you for being in the dream with me GN𖹭."', image: "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNjcnpqNXY1cDF3ZmR3aWppZHByZDNqYm4waHc5eTV0c3BoMjBxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6P80t9A9I4ww62NPui/giphy.gif" },
-            { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​​​Cʏʀᴇɴᴇ​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '"This will be a romantic story like no other. right?', image: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFjdjhrYWhoeTJhcmplZGU0MzYwNWN3cGRjNmw4cHlobXNjY2s3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hFB9LJYeUoKzfmc2LZ/giphy.gif" },
+            { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​​​Cʏʀᴇɴᴇ​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '"This will be a romantic story like no other. right?', image: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlzaGhwYW0xaHR2aW9wem05N2RqOG5wdjI3NXdieDBwbHYwZDRqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d7EfztUuCNRCHrqp6p/giphy.gif" },
             { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​A​​🇪​​🇲​​🇪🇦​​🇹​​🇭​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '"All I want... is for you to live safe and happy."', image: "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlneHhiN3lwZWdkMWxmcDQzMnAwdnpjbno0ZWhpMWVlcWFlbWV6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mMtkD6L0jkcPekSAwv/giphy.gif" },
             { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​​​​Rᴇᴍɪᴇʟʟᴇ​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '"Sigh... You were much cute when u were asleep"', image: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA3aWRlOW1lcTU3ODV2d3ZybmdycXMycjJzdHlneXJsNzMzOTc1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/td2OOOn28nqUN1NTyQ/giphy.gif" },
         ],
@@ -41,7 +41,7 @@ const SLOTS = [
         mode: "shuffle",
         entries: [
             { name: " ‎ ۫ ꣑ও ⸼ ࣪ ♡ Mizi ෆ 𓈒‿ᚐ ݂۫🪽", description: "私とあなたの愛は違う…でも、これも愛だった", image: "https://c.tenor.com/bpUgoSrZzuIAAAAC/tenor.gif" },
-            { name: "Character 2", description: "...", image: "https://example.com/images/character-2.png" },
+            { name: " ‎ ۫ ꣑ও ⸼ ࣪ ♡ Haru ෆ 𓈒‿ᚐ ݂۫🐴", description: "I won't let losing get me down! Urara, la la la! ♪", image: "https://i.pinimg.com/736x/bd/44/42/bd4442a704a6c59aa13fc81671a6b1b1.jpg" },
             { name: "Character 3", description: "...", image: "https://example.com/images/character-3.png" },
             { name: "Character 4", description: "...", image: "https://example.com/images/character-4.png" },
             { name: "Character 5", description: "...", image: "https://example.com/images/character-5.png" },
