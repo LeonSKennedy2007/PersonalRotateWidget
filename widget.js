@@ -30,10 +30,10 @@ const SLOTS = [
     {
         mode: "sequential",
         entries: [
-            { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​​​Eʟʏꜱɪᴀ​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '"Thank you for being in the dream with me GN𖹭."', image: "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNjcnpqNXY1cDF3ZmR3aWppZHByZDNqYm4waHc5eTV0c3BoMjBxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6P80t9A9I4ww62NPui/giphy.gif" },
-            { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​​​Cʏʀᴇɴᴇ​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '"This will be a romantic story like no other. right?', image: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlzaGhwYW0xaHR2aW9wem05N2RqOG5wdjI3NXdieDBwbHYwZDRqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d7EfztUuCNRCHrqp6p/giphy.gif" },
-            { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​A​​ᴇᴍᴇᴀᴛʜ​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '"All I want... is for you to live safe and happy."', image: "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlneHhiN3lwZWdkMWxmcDQzMnAwdnpjbno0ZWhpMWVlcWFlbWV6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mMtkD6L0jkcPekSAwv/giphy.gif" },
-            { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​​​​Rᴇᴍɪᴇʟʟᴇ​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '"Sigh... You were much cute when u were asleep"', image: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA3aWRlOW1lcTU3ODV2d3ZybmdycXMycjJzdHlneXJsNzMzOTc1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/td2OOOn28nqUN1NTyQ/giphy.gif" },
+            { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​​​Eʟʏꜱɪᴀ​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '“Thank you for being in the dream with me GN𖹭.”', image: "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNjcnpqNXY1cDF3ZmR3aWppZHByZDNqYm4waHc5eTV0c3BoMjBxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6P80t9A9I4ww62NPui/giphy.gif" },
+            { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​​​Cʏʀᴇɴᴇ​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '“ This will be a romantic story like no other. right?', image: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDlzaGhwYW0xaHR2aW9wem05N2RqOG5wdjI3NXdieDBwbHYwZDRqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d7EfztUuCNRCHrqp6p/giphy.gif" },
+            { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​A​​ᴇᴍᴇᴀᴛʜ​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '“ All I want... is for you to live safe and happy. ”', image: "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlneHhiN3lwZWdkMWxmcDQzMnAwdnpjbno0ZWhpMWVlcWFlbWV6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mMtkD6L0jkcPekSAwv/giphy.gif" },
+            { name: "𝜗𝜚 ࣪˖ ִ𐙚 ​​​​Rᴇᴍɪᴇʟʟᴇ​​ ۫ ꣑ৎ˚𑣲 ۫˖", description: '“ Sigh... You were much cute when u were asleep ”', image: "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA3aWRlOW1lcTU3ODV2d3ZybmdycXMycjJzdHlneXJsNzMzOTc1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/td2OOOn28nqUN1NTyQ/giphy.gif" },
         ],
     },
     // ---- ช่องที่ 3 (สุ่ม) ----
@@ -57,6 +57,11 @@ const SLOTS = [
             { name: " ‎ ۫꣑ও ⸼ ࣪ ♡ Kɪᴛᴀꜱᴀɴ 𓈒‿ᚐ۶ৎ ݂۫ ", description: '“ 頑張ってね ” - “ Harikitte ikou! ”', image: "https://c.tenor.com/9yii3PXtLEwAAAAC/tenor.gif" },
             { name: " ‎ ۫꣑ও ⸼ ࣪ ♡ Iꜱʜᴍᴀᴇʟ𑣲𓈒‿ᚐ۶ৎ ݂۫ ", description: '“ Ill follow your orders, as long as they are efficient”', image: "https://i.pinimg.com/736x/54/16/7b/54167b896925f5c7eae3ed424f6dd186.jpg" },
             { name: " ‎ ۫꣑ও ⸼ ࣪ ♡ Fᴀᴜꜱᴛ 𑣲𓈒‿ᚐ۶ৎ ݂۫ ", description: "“ Dante, know all doesnt mean I tell u everything ”", image: "https://i.pinimg.com/736x/c9/43/4a/c9434a8336d45a6df8354347f074b25d.jpg" },
+            { name: " ‎ ۫꣑ও ⸼ ࣪ ♡ Aʟʏᴀ 𑣲𓈒‿ᚐ۶ৎ ݂۫ ", description: "“ Эй, обрати внимание. Поговори со мной... ”", image: "https://i.pinimg.com/736x/a9/02/89/a902899e9e527a7de25dcc34aa8060d5.jpg" },
+            { name: " ‎ ۫꣑ও ⸼ ࣪ ♡ Mᴀʀɪɴ 𑣲𓈒‿ᚐ۶ৎ ݂۫ ", description: "感情を隠していると、身を滅ぼすことになるよ。", image: "https://i.pinimg.com/736x/d7/9b/86/d79b8671f6efe783b16b435904a16392.jpg" },
+            { name: " ‎ ۫꣑ও ⸼ ࣪ ♡ Mɪᴢɪ 𑣲𓈒‿ᚐ۶ৎ ݂۫ ", description: "私とあなたの愛は違う…でも、これも愛だった", image: "https://c.tenor.com/bpUgoSrZzuIAAAAC/tenor.gif" },
+            { name: " ‎ ۫꣑ও ⸼ ࣪ ♡ Mɪᴢɪ 𑣲𓈒‿ᚐ۶ৎ ݂۫ ", description: "私とあなたの愛は違う…でも、これも愛だった", image: "https://c.tenor.com/bpUgoSrZzuIAAAAC/tenor.gif" },
+            { name: " ‎ ۫꣑ও ⸼ ࣪ ♡ Mɪᴢɪ 𑣲𓈒‿ᚐ۶ৎ ݂۫ ", description: "私とあなたの愛は違う…でも、これも愛だった", image: "https://c.tenor.com/bpUgoSrZzuIAAAAC/tenor.gif" },
         ],
     },
     // ---- ช่องที่ 4 (เรียงตามลำดับ) ----
